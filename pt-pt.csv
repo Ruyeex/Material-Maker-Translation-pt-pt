@@ -2846,20 +2846,53 @@ Donors|Doadores
 Store as separate file|Armazenar como ficheiro separado
 Edit curve|Editar curva
 [unnamed]|[sem_nome]
+[unnamed] *|[sem_nome] *
 Type your comment here|Escreva o seu comentário aqui
 RGB|VVA
 HSV|MSV
 RAW|BRUTO
 OKHSL|OKMSL
 Colorized Sliders|Controles Deslizantes
-R|V
-G|V
-B|A
-A|A
-H|M
-S|S
-V|V
 HSV Rectangle|Retângulo MSV
 HSV Wheel|Roda MSV
 VHS Circle|Circulo MSV
 OKHSL Circle|Círculo OKMSL
+Direct Connections|Conexões Diretas
+Bezier Connections|Conexões de Bézier
+Rounded Connections|Conexões Arredondadas
+Manhattan Connections|Conexões de Manhattan
+Diagonal Connections|Conexões Diagonais
+Connections lines thickness|Espessura das linhas de ligação
+Connections lines curvature|Curvatura das linhas de ligação
+Connections lines corner radius|Linhas de ligação do raio do canto
+Port Offset|Deslocamento do porte
+Significant for vertically-stacked nodes|Significativo para blocos empilhados verticalmente
+Center View (Ctrl+R)|Centro de Vista (Ctrl+R)
+Exported to|Exportado para
+buffer(s),|buffer(s),
+paused|pausado
+unnamed_project_graph|sem_nome_projecto
+Iteration:|Iteração
+Gamma|Gama
+No denoise|Sem redução de ruído
+Simple denoise|Simples redução de ruído
+Smart denoise|Redução de ruído inteligente
+Previous|Anterior
+Next|Seguinte
+Connect to website|Conectar ao site
+Send material to website|Mandar material ao site
+Adapter:|Adaptador:
+Vendor:|Vendedor:
+Video mem.:|Vídeo mem.:
+Buffer mem.:|Buffer mem.:
+User name:|Nome de utilizador:
+Save user name|Salvar nome de utilizador
+Password:|Palavra-passe:
+Save password|Salvar palavra-passe
+Log in|Conectar
+Register|Registar
+Missing credentials|Credenciais a faltar
+No user name|Não há utilizador chamado
+Incorrect password for user|Palavra-passe incorreta param utilizador
+Logged in as|Connectado como
+Materials can be submitted|Materiais podem ser submetidos
