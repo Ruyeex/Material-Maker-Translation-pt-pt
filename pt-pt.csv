@@ -2870,7 +2870,7 @@ Significant for vertically-stacked nodes|Significativo para blocos empilhados ve
 Center View|Centro de Vista
 %d buffer(s), %d paused|%d buffer(s), %d pausado
 Height:|Altura:
-Iteration: %d|Iteração: %d
+Iteration:|Iteração:
 Gamma:|Gama:
 No denoise|Sem redução de ruído
 Simple denoise|Simples redução de ruído
@@ -2879,10 +2879,10 @@ Previous|Anterior
 Next|Seguinte
 Connect to website|Conectar ao site
 Send material to website|Mandar material ao site
-Adapter: %d|Adaptador %d
-Vendor: %d|Vendedor %d
-Video mem.: %d Gb|Vídeo mem. %d Gb
-Buffer mem.: %d Mb|Buffer mem. %d Mb
+Adapter: %s|Adaptador %s
+Vendor: %s|Vendedor %s
+Video mem.: %s|Vídeo mem.: %s
+Buffer mem.: %s|Buffer mem.: %s
 User name:|Nome de utilizador:
 Save user name|Salvar nome de utilizador
 Password:|Palavra-passe:
@@ -2893,5 +2893,5 @@ Missing credentials|Credenciais a faltar
 No user named %d|Não há utilizador chamado %d
 Incorrect password for user %d|Palavra-passe incorreta para utilizador %d
 Logged in as %d|Connectado como %d
-Materials can be submitted.|Materiais podem ser submetidos.
+Materials can be submitted|Materiais podem ser submetidos
 PTex|PTex
