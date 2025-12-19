@@ -2868,7 +2868,7 @@ Connections lines corner radius|Linhas de ligação do raio do canto
 Port Offset|Deslocamento do porte
 Significant for vertically-stacked nodes|Significativo para blocos empilhados verticalmente
 Center View|Centro de Vista
-{0} buffer(s), {0} paused|{0} buffer(s), {0} pausado
+%d buffer(s), %d paused|%d buffer(s), %d pausado
 Height:|Altura:
 Iteration:|Iteração:
 Gamma:|Gama:
@@ -2879,10 +2879,10 @@ Previous|Anterior
 Next|Seguinte
 Connect to website|Conectar ao site
 Send material to website|Mandar material ao site
-Adapter: {0}|Adaptador: {0}
-Vendor: {0}|Vendedor: {0}
-Video mem.: {0}|Vídeo mem.: {0}
-Buffer mem.: {0}|Buffer mem.: {0}
+Adapter: %d|Adaptador: %d
+Vendor: %d|Vendedor: %d
+Video mem.: %d|Vídeo mem.: %d
+Buffer mem.: %d|Buffer mem.: %d
 User name:|Nome de utilizador:
 Save user name|Salvar nome de utilizador
 Password:|Palavra-passe:
@@ -2890,8 +2890,8 @@ Save password|Salvar palavra-passe
 Log in|Conectar
 Register|Registar
 Missing credentials|Credenciais a faltar
-No user named |Não há utilizador chamado {0}
-Incorrect password for user {0}|Palavra-passe incorreta para utilizador {0}
-Logged in as {0}|Connectado como {0}
+No user named |Não há utilizador chamado %d
+Incorrect password for user %d|Palavra-passe incorreta para utilizador %d
+Logged in as %d|Connectado como %d
 Materials can be submitted.|Materiais podem ser submetidos.
 PTex|PTex
