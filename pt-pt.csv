@@ -2879,10 +2879,10 @@ Previous|Anterior
 Next|Seguinte
 Connect to website|Conectar ao site
 Send material to website|Mandar material ao site
-Adapter %d|Adaptador %d
-Vendor %d|Vendedor %d
-Video mem. %d|Vídeo mem. %d
-Buffer mem. %d|Buffer mem. %d
+Adapter: %d|Adaptador %d
+Vendor: %d|Vendedor %d
+Video mem.: %d Gb|Vídeo mem. %d Gb
+Buffer mem.: %d Mb|Buffer mem. %d Mb
 User name:|Nome de utilizador:
 Save user name|Salvar nome de utilizador
 Password:|Palavra-passe:
