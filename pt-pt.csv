@@ -55,9 +55,9 @@ Report a bug|Reportar erro
 Material Maker on reddit|Material Maker no reddit
 About|Sobre
 Library|Livraria
-Preview2D|Pré-visualização2D
-Preview3D|Pré-visualização3D
-Preview2D (2)|Pré-visualização2D (2)
+Preview2D|Pré-visualização 2D
+Preview3D|Pré-visualização 3D
+Preview2D (2)|Pré-visualização 2D (2)
 Histogram|Histograma
 Hierarchy|Hierarquia
 Reference|Referência
@@ -1620,6 +1620,7 @@ User library|Livraria do utilizador
 Create library|Criar livraria
 Load library|Carregar livraria
 Unload|Descarregar
+No custom library loaded|Sem livraria personalizada descarregada
 Reset view|Redefinir vista
 Axes|Eixos
 Export again|Exportar novamente
@@ -2715,6 +2716,7 @@ Edge color|Cor da aresta
 Outline color|Cor do contorno
 The value used for the outlines|O valor utilizado para os contornos
 Tile 2x2|Telha 2x2
+Tile Variations 2x2|Variações de Telhas 2x2
 Places 4 input images into a single output to create an atlas of 4 images. Chaining Tile 2x2 nodes can be useful to create 16 images atlases.\nAtlases are used by remapping nodes such as CustomUV, Tiler and Splatter.|Coloca 4 imagens de entrada numa única saída para criar um atlas de 4 imagens. Encadear nós de Bloco 2x2 pode servir para criar atlas de 16 imagens. Os Atlas são utilizados para o remapeamento de nós como o UV Personalizado, Ladrilhador e Respingos.
 in1|dentro1
 Input1|Entrada1
@@ -2843,3 +2845,21 @@ Library path|Caminho da livraria
 Donors|Doadores
 Store as separate file|Armazenar como ficheiro separado
 Edit curve|Editar curva
+[unnamed]|[sem_nome]
+Type your comment here|Escreva o seu comentário aqui
+RGB|VVA
+HSV|MSV
+RAW|BRUTO
+OKHSL|OKMSL
+Colorized Sliders|Controles Deslizantes
+R|V
+G|V
+B|A
+A|A
+H|M
+S|S
+V|V
+HSV Rectangle|Retângulo MSV
+HSV Wheel|Roda MSV
+VHS Circle|Circulo MSV
+OKHSL Circle|Círculo OKMSL
