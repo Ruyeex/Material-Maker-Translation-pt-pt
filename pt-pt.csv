@@ -2868,10 +2868,10 @@ Connections lines corner radius|Linhas de ligação do raio do canto
 Port Offset|Deslocamento do porte
 Significant for vertically-stacked nodes|Significativo para blocos empilhados verticalmente
 Center View|Centro de Vista
- buffer(s),| buffer(s),
- paused| pausado
-Iteration|Iteração
-Gamma|Gama
+{0} buffer(s), {0} paused|{0} buffer(s), {0} pausado
+Height:|Altura:
+Iteration:|Iteração:
+Gamma:|Gama:
 No denoise|Sem redução de ruído
 Simple denoise|Simples redução de ruído
 Smart denoise|Redução de ruído inteligente
@@ -2879,10 +2879,10 @@ Previous|Anterior
 Next|Seguinte
 Connect to website|Conectar ao site
 Send material to website|Mandar material ao site
-Adapter|Adaptador
-Vendor|Vendedor
-Video mem.|Vídeo mem.
-Buffer mem.|Buffer mem.
+Adapter: {0}|Adaptador: {0}
+Vendor: {0}|Vendedor: {0}
+Video mem.: {0}|Vídeo mem.: {0}
+Buffer mem.: {0}|Buffer mem.: {0}
 User name:|Nome de utilizador:
 Save user name|Salvar nome de utilizador
 Password:|Palavra-passe:
@@ -2890,8 +2890,8 @@ Save password|Salvar palavra-passe
 Log in|Conectar
 Register|Registar
 Missing credentials|Credenciais a faltar
-No user named |Não há utilizador chamado 
-Incorrect password for user |Palavra-passe incorreta para utilizador 
-Logged in as |Connectado como 
+No user named |Não há utilizador chamado {0}
+Incorrect password for user {0}|Palavra-passe incorreta para utilizador {0}
+Logged in as {0}|Connectado como {0}
 Materials can be submitted.|Materiais podem ser submetidos.
 PTex|PTex
