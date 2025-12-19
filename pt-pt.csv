@@ -2867,12 +2867,10 @@ Connections lines curvature|Curvatura das linhas de ligação
 Connections lines corner radius|Linhas de ligação do raio do canto
 Port Offset|Deslocamento do porte
 Significant for vertically-stacked nodes|Significativo para blocos empilhados verticalmente
-Center View (Ctrl+R)|Centro de Vista (Ctrl+R)
-Exported to|Exportado para
-buffer(s),|buffer(s),
-paused|pausado
-unnamed_project_graph|sem_nome_projecto
-Iteration:|Iteração
+Center View|Centro de Vista
+ buffer(s),| buffer(s),
+ paused| pausado
+Iteration|Iteração
 Gamma|Gama
 No denoise|Sem redução de ruído
 Simple denoise|Simples redução de ruído
@@ -2881,10 +2879,10 @@ Previous|Anterior
 Next|Seguinte
 Connect to website|Conectar ao site
 Send material to website|Mandar material ao site
-Adapter:|Adaptador:
-Vendor:|Vendedor:
-Video mem.:|Vídeo mem.:
-Buffer mem.:|Buffer mem.:
+Adapter|Adaptador
+Vendor|Vendedor
+Video mem.|Vídeo mem.
+Buffer mem.|Buffer mem.
 User name:|Nome de utilizador:
 Save user name|Salvar nome de utilizador
 Password:|Palavra-passe:
@@ -2892,8 +2890,8 @@ Save password|Salvar palavra-passe
 Log in|Conectar
 Register|Registar
 Missing credentials|Credenciais a faltar
-No user name|Não há utilizador chamado
-Incorrect password for user|Palavra-passe incorreta param utilizador
-Logged in as|Connectado como
-Materials can be submitted|Materiais podem ser submetidos
+No user named |Não há utilizador chamado 
+Incorrect password for user |Palavra-passe incorreta para utilizador 
+Logged in as |Connectado como 
+Materials can be submitted.|Materiais podem ser submetidos.
 PTex|PTex
