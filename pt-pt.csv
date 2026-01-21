@@ -2572,7 +2572,6 @@ The clipboard cannot be pasted|A área de transferência não pode ser colada
 Show console|Mostrar consola
 Slices:|Fatias:
 Lock this preview|Bloquear esta visualização
-Center View|Centralizar a Visualização
 Open a Directory|Abrir um Diretório
 Select Current Folder|Selecionar a Pasta Atual
 Toggle the visibility of the filter for file names.|Alternar a visibilidade do filtro para os nomes dos ficheiros.
@@ -2866,7 +2865,7 @@ Connections lines curvature|Curvatura das linhas de ligação
 Connections lines corner radius|Linhas de ligação do raio do canto
 Port Offset|Deslocamento do porte
 Significant for vertically-stacked nodes|Significativo para blocos empilhados verticalmente
-Center View|Centro de Vista
+Center View (Ctrl+R)|Centro de Vista (Ctrl+R)
 %d buffer(s), %d paused|%d buffer(s), %d pausado
 Height:|Altura:
 Iteration:|Iteração:
