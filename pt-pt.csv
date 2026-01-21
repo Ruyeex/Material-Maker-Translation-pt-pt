@@ -29,7 +29,7 @@ Save Selection|Salvar Seleção
 Set theme|Definir tema
 Preferences|Preferências
 View|Vista
-Center view|Centro de vista
+Center View|Centro de Vista
 Reset zoom|Redefinir zoom
 Show/Hide side panels|Mostrar/Ocultar painéis laterais
 Panels|Painéis
@@ -1366,8 +1366,7 @@ A map for scale along the Y axis|Um mapa para a escala ao longo do eixo Y
 Instance map 1|Mapa de instância 1
 Shows a color for each instance of the input image|Mostra uma cor para cada instância da imagem de entrada
 Instance map 2|Mapa de instância 2
-Advanced Tiler Color|Cor do Ladrilhador Avançado
-Color Tiler|Cor do Ladrilhador
+Color Tiler|Ladrilhador Colorido
 Instance Map|Mapa de Instância
 Tonality|Tonalidade
 Remaps a greyscale image tonality using a curve|Remapeia a tonalidade de uma imagem cinza utilizando uma curva
@@ -2706,8 +2705,8 @@ Size|Tamanho
 The resolution of the input image|Resolução da imagem de entrada
 Width|Largura
 Threshold|Limiar
-AA Edge Detect|AA Deteção de Bordas
-An edge detect filter that detects edges horizontally and vertically and draws them in white on a black background|Um filtro de deteção de margens que deteta margens horizontal e verticalmente e as desenha em branco sobre um fundo preto
+AA Edge Detect|AA Deteção de Arestas
+An edge detect filter that detects edges horizontally and vertically and draws them in white on a black background|Um filtro de deteção de arestas horizontais e verticais e as desenha em branco sobre um fundo preto
 Fill to Random Gray|Preencher para Imagem Cinza Aleatório
 A fill companion node that fills each area with a random grayscale value|Um bloco complementar de preenchimento que preenche cada área com um valor aleatório de imagem cinza
 The input fill data, to be connected to the output of a Fill node|Os dados de preenchimento de entrada, a ligar à saída de um bloco de Preenchimento
@@ -2898,3 +2897,12 @@ PTex|PTex
 Warp 1|Deformação 1
 Warp 2|Deformação 2
 Clouds|Nuvens
+Tones Map|Tons de Mapa
+Tones Step|Tons Degraus
+HBAO|OABH
+Horizon Based Ambient Occulusion|Oclusão Ambiente Baseada no Horizonte
+Simple Edge Detect|Deteção de Arestas Simples
+Diagonal Edge Detect|Deteção de Arestas Diagonais
+Tile 2x2 Variations|Telha 2x2 Variações
+Advanced Color Tiler|Ladrilhador Avançado Colorido
+Smooth Mix|Mis Suave
