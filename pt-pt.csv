@@ -1144,7 +1144,7 @@ Polygon|Polígono
 The polygon to be drawn|O polígono para se desenhado
 The polygon as a signed distance function|O polígono como uma função de distância assinada
 sdRepeat|fdRepetir
-sdRhombus|faLosango
+sdRhombus|fdLosango
 A rhombus described as a signed distance function|Um losango descrito como uma função de distância assinada
 The width of the rhombus|A largura do losango
 The height of the rhombus|A altura do losango
@@ -1153,7 +1153,7 @@ sdRotate|fdRotação
 Rotates its input shape described as a signed distance function|Roda a sua forma de entrada descrita como uma função de distância assinada
 The rotation angle|O ângulo de rotação
 The rotated shape|A forma rotada
-sdRoundedShape|faFormaArredondada
+sdRoundedShape|fdFormaArredondada
 sdScale|fdEscala
 Scales its input shape described as a signed distance function|Escala a sua forma de entrada descrita como uma função de distância assinada
 The scale of the transform|A escala da transformação
@@ -1504,7 +1504,7 @@ Circular|Circular
 SDF|FDA
 Shapes|Formas
 Operators|Operadores
-sdCircleRepeat|faRepetiçãoemCírculo
+sdCircleRepeat|fdRepetiçãoemCírculo
 Transforms|Transformações
 CircleRepeat|RepetiçãoemCírculo
 ToInvUvMap|ParaInvUvMapa
@@ -1808,7 +1808,7 @@ Rotation.x|Rotação.x
 Rotation.y|Rotação.y
 Rotation.z|Rotação.z
 Scale XY|Escala XY
-sdScale XY|faEscala XY
+sdScale XY|fdEscala XY
 Scales in a non uniform way its input shape described as a signed distance function|Escala de entrada de forma não uniforme, descrita como uma função de distância assinada
 sdf3d_cone|fda3d_cone
 Adds FBM noise to a base 3D SDF shape|Adiciona ruído MBF a uma forma FDA 3D base
@@ -2392,7 +2392,7 @@ Shows the shape as a greyscale image|Mostra a forma como uma imagem cinza
 The width of the gradient at the edges of the shape|A largura do gradiente nas arestas da forma
 Base|Base
 The base value of the output|O valor base da saída
-sdCross|faCruz
+sdCross|fdCruz
 A cross described as a signed distance function|Uma cruz descrita como uma função de distância assinada
 The cross as a signed distance function|A cruz como função de distância assinada
 Radius of the cross|Raio da cruz
@@ -2400,39 +2400,39 @@ Width of the cross|Largura da cruz
 Height of the cross|Altura da cruz
 The position of the center on the X axis|A posição do centro no eixo X
 The position of the center on the Y axis|A posição do centro no eixo Y
-sdCutDisk|faDiscodeCorte
+sdCutDisk|fdDiscodeCorte
 A cut disk described as a signed distance function|Um disco de corte descrito como função de distância assinada
 The cut disk as a signed distance function|O disco de corte em função de distância assinada
 Radius of the cut disk|Raio do disco de corte
 Cut Height|Altura do Corte
 Position of the cut of the disk|Posição do corte do disco
-sdEgg|faOvo
+sdEgg|fdOvo
 An egg described as a signed distance function|Um ovo descrito como função de distância assinada
 The egg as a signed distance function|O ovo como função de distância assinada
 Radius of the egg|Raio do ovo
 Pointiness|Pontualidade
 Egg pointiness|Pontualidade do ovo
 Pointiness of the egg|Pontualidade do ovo
-sdEquilateralTriangle|faTriânguloEquilátero
+sdEquilateralTriangle|fdTriânguloEquilátero
 An equilateral triangle described as a signed distance function|Um triângulo equilátero descrito como uma função de distância assinadal
 The equilateral triangle as a signed distance function|O triângulo equilátero em função de distância assinada
 Radius of the equilateral triangle|Raio do triângulo equilátero
-sdHeart|faCoração
+sdHeart|fdCoração
 Heart|Coração
 A heart described as a signed distance function|Um coração descrito como função de distância assinada
 The heart as a signed distance function|O coração em função de distância assinada
 Radius of the heart|Raio do coração
-sdHexagram|faHexagrama
+sdHexagram|fdHexagrama
 Hexagram|Hexagrama
 A hexagram described as a signed distance function|Um hexagrama descrito como uma função de distância assinada
 The hexagram as a signed distance function|O Hexagrama como função de distância assinada
 The radius of the hexagram|O raio do hexagrama
-sdIsoscelesTriangle|faTriânguloIsósceles
+sdIsoscelesTriangle|fdTriânguloIsósceles
 An Isosceles Triangle described as a signed distance function|Um triângulo isósceles descrito como uma função de distância assinada
 The isosceles triangle as a signed distance function|O triângulo isósceles como função de distância assinada
 Width of the isosceles triangle|Largura do triângulo isósceles
 Height of the isosceles triangle|Altura do triângulo isósceles
-sdMoon|faLua
+sdMoon|fdLua
 Moon|Lua
 A moon described as a signed distance function|Uma lua descrita como uma função de distância assinada
 The moon as a signed distance function|A lua como função de distância assinada
@@ -2440,21 +2440,21 @@ Radius of the moon|Raio da lua
 Inner Radius|Raio interno
 Radius of the inner circle|Raio do círculo interior
 Distance of the inner circle away from the origin|Distância do círculo interior da origem
-sdParallelogram|faParalelogramo
+sdParallelogram|fdParalelogramo
 A parallelogram described as a signed distance function|Um paralelogramo descrito como uma função de distância assinada
 The parallelogram as a signed distance function|O paralelogramo como função de distância assinada
 Width of the parallelogram|Largura do paralelogramo
 Height of the parallelogram|Altura do paralelogramo
 Skew|Inclinar
 Amount of skew of the parallelogram|Quantidade de assimetria do paralelogramo
-sdPie|faTarte
+sdPie|fdTarte
 Pie|Tarte
 A pie described as a signed distance function|Uma tarte descrita como uma função de distância assinada
 The pie as a signed distance function|A tarta como função de distância assinada
 The radius of the pie|O raio da tarte
 Aperture|Abertura
 The aperture of the sector|A abertura do setor
-sdRoundedBox|faCaixaArredondada
+sdRoundedBox|fdCaixaArredondada
 A rounded box described as a signed distance function|Uma caixa arredondada descrita como uma função de distância assinada
 The rounded box as a signed distance function|A Caixa arredondada em função de distância assinada
 Width of the rounded box|Largura da caixa arredondada
@@ -2467,12 +2467,12 @@ Bottom-left radius|Raio inferior esquerdo
 Bottom-left corner radius of the rounded box|Raio do canto inferior esquerdo da caixa arredondada
 Bottom-right radius|Raio inferior direito
 Bottom-right corner radius of the rounded box|Raio do canto inferior direito da caixa arredondada
-sdRoundedCross|faCruzArredondada
+sdRoundedCross|fdCruzArredondada
 A rounded cross described as a signed distance function|Uma cruz arredondada descrita como função de distância assinada
 The rounded cross as a signed distance function|A cruz arredondada em função de distância assinada
 Width of the rounded cross|Largura da cruz arredondada
 Height of the rounded cross|Altura da cruz arredondada
-sdRoundedX|faArredondadoX
+sdRoundedX|fdArredondadoX
 A Rounded X described as a signed distance function|Um X arredondado descrito como uma função de distância assinada
 The n-gon as a signed distance function|O n-gono como função da distância com sinal
 Radius of the rounded X|Raio do X arredondado
@@ -2491,7 +2491,7 @@ A 5-point star described as a signed distance function|A Estrela de 5 pontas des
 The 5-point star as a signed distance function|A estrela de 5 pontas como função de distância assinada
 Radius of the 5-point star|Raio da estrela de 5 pontas
 Inner radius of the 5-point star|Raio interno da estrela de 5 pontas
-sdTrapezoid|faTrapézio
+sdTrapezoid|fdTrapézio
 A trapezoid described as a signed distance function|Um trapézio descrito como função de distância assinada
 The trapezoid as a signed distance function|O trapézio como função de distância assinada
 Top Width|Largura superior
@@ -2499,7 +2499,7 @@ Top width of the trapezoid|Largura superior do trapézio
 Bottom Width|Largura inferior
 Bottom width of the trapezoid|Largura inferior do trapézio
 Height of the trapezoid|Altura do trapézio
-sdTriangle|faTriângulo
+sdTriangle|fdTriângulo
 A triangle described as a signed distance function|Um triângulo descrito como uma função de distância assinada
 The triangle as a signed distance function|O triângulo como função de distância assinada
 Point 1 X|Ponto 1 X
@@ -2514,15 +2514,15 @@ Point 3 X|Ponto 3 X
 The position on the X axis of the third point of the triangle|A posição no eixo X do terceiro ponto do triângulo
 Point 3 Y|Ponto 3 Y
 The position on the Y axis of the third point of the triangle|A posição no eixo Y do terceiro ponto do triângulo
-sdUnevenCapsule|faCápsulaÍmpar
-An uneven capsule described as a signed distance function|Uma cápsula ímpar descrita como uma função de distância assinada
-The uneven capsule as a signed distance function|A cápsula ímpar como função de distância assinada
-The height of the uneven capsule|A altura da cápsula ímpar
+sdUnevenCapsule|fdCápsulaEnpar
+An uneven capsule described as a signed distance function|Uma cápsula enpar descrita como uma função de distância assinada
+The uneven capsule as a signed distance function|A cápsula enpar como função de distância assinada
+The height of the uneven capsule|A altura da cápsula enpar
 Top Radius|Raio superior
-Top radius of the uneven capule|Raio superior da cápsula ímpar
+Top radius of the uneven capule|Raio superior da cápsula enpar
 Bottom Radius|Raio inferior
-Bottom radius of the uneven capsule|Raio inferior da cápsula ímpar
-sdVesica|faVesica
+Bottom radius of the uneven capsule|Raio inferior da cápsula enpar
+sdVesica|fdVesica
 Vesica|Vesica
 A vesica described as a signed distance function|Uma vesica descrita como uma função de distância assinada
 The vesica as a signed distance function|A vesica como função de distância assinada
@@ -2545,12 +2545,12 @@ Width of the arrow head|Largura da ponta da flecha
 Tail|Cauda
 Tail width|Largura da cauda
 Width of the arrow tail|Largura da seta cauda
-sdSmoothBoolean|faBooleanoSuave 
+sdSmoothBoolean|fdBooleanoSuave 
 Performs smooth boolean operations (union, intersection or difference) between two or more shapes|Executa operações booleanas suaves (união, interseção ou diferença) entre duas ou mais formas
 Operation#|Operação#
 Smoothness#|Suavidade#
 Circle Repeat|Repetição em Círculo
-sdCircle Repeat|faRepetição em Círculo
+sdCircle Repeat|fdRepetição em Círculo
 Repeats its input shape around a circle|Repete a forma de entrada em torno de um círculo
 The input shape, defined as a signed distance function|A forma de entrada, definida como uma função de distância assinada
 The shape generated by the repeat operation|A forma gerada pela operação de repetição
@@ -2797,8 +2797,8 @@ Input Image|Imagem de entrada
 Resolution used to sample the image|Resolução utilizada para amostrar a imagem
 Running Bond|Vínculo de execução
 English Bond|Vínculo Inglês
-Flemish Bond|Vínculo Famengo
-Herringbone|Espinhadepeixe
+Flemish Bond|Vínculo Flamengo
+Herringbone|Espinha de peixe
 Basket Weave|Cesto de Vime
 Spanish Bond|Vínculo Espanhol
 Tangent|Tangente
@@ -2895,3 +2895,6 @@ Incorrect password for user %d|Palavra-passe incorreta para utilizador %d
 Logged in as %d|Connectado como %d
 Materials can be submitted|Materiais podem ser submetidos
 PTex|PTex
+Warp 1|Deformação 1
+Warp 2|Deformação 2
+Clouds|Nuvens
