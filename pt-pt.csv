@@ -2865,7 +2865,7 @@ Connections lines curvature|Curvatura das linhas de ligação
 Connections lines corner radius|Linhas de ligação do raio do canto
 Port Offset|Deslocamento do porte
 Significant for vertically-stacked nodes|Significativo para blocos empilhados verticalmente
-Center View (%s)|Centro de Vista (%s)
+Center view|Centro de vista
 %d buffer(s), %d paused|%d buffer(s), %d pausado
 Height:|Altura:
 Iteration:|Iteração:
